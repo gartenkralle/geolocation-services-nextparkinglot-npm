@@ -4,7 +4,7 @@
   "description": "Find parking lots all over the world.",
   "main": "app.js",
   "scripts": {
-    "test": "test.js"
+    "test": "node test.js"
   },
   "keywords": [
     "parking"
