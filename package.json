@@ -1,6 +1,6 @@
 {
   "name": "@geolocation-services/nextparkinglot-package",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Find parking lots all over the world.",
   "main": "app.js",
   "scripts": {
@@ -13,7 +13,10 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "@geolocation-services/core-package": "^1.0.4"
+    "@geolocation-services/core-package": "^1.0.5"
   },
-  "homepage": "https://www.geolocationservices.org/"
+  "homepage": "https://www.geolocationservices.org/",
+  "repository": {
+    "url": "https://github.com/gartenkralle/geolocation-services-nextparkinglot-npm"
+  }
 }
