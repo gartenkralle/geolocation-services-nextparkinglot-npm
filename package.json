@@ -1,0 +1,19 @@
+{
+  "name": "@geolocation-services/nextparkinglot-package",
+  "version": "1.2.2",
+  "description": "Find parking lots all over the world.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parking"
+  ],
+  "author": "geolocationservices",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@geolocation-services/core-package": "^1.0.4"
+  },
+  "homepage": "https://www.geolocationservices.org/"
+}
